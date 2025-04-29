@@ -52,8 +52,8 @@ Build for production:
 npm run build
 ```
 
-Deployment
-Deployed at https://coderesizer.netlify.app/.
+# Live Deployment
+at https://coderesizer.netlify.app/.
 
 ## License
 MIT License
