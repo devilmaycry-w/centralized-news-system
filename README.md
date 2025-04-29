@@ -32,3 +32,28 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/news-aggregator.git
 cd news-aggregator
+```
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the devlopment server:
+
+```bash
+npm run dev
+```
+Open http://localhost:5173.
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Deployment
+Deployed at https://coderesizer.netlify.app/.
+
+## License
+MIT License
