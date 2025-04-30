@@ -55,5 +55,11 @@ npm run build
 # Live Deployment
 at https://coderesizer.netlify.app/.
 
+## Using a Live API
+
+If you want to fetch real data from a live API (e.g., NewsAPI), refer to the screenshot below:
+
+[![Screenshot of Live API Integration](https://i.postimg.cc/qMMKRRBz/Screenshot-20250430-143846-Chat-GPT.jpg)](https://postimg.cc/nMgrSnDJ)
+
 ## License
 MIT License
